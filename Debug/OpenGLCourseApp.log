@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kashish.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\camera.h(5): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  DirectionalLight.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\light.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Light.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\light.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  main.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\main.cpp(11): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\model.h(6): fatal error C1083: Cannot open include file: 'assimp\Importer.hpp': No such file or directory
+  OmniShadowMap.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\omnishadowmap.cpp(35): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+  PointLight.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\light.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Shader.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\shader.h(10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ShadowMap.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\shadowmap.cpp(37): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+  Skybox.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\skybox.h(8): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  SpotLight.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\light.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Texture.cpp
+  Window.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(130): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(135): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(136): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(138): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(139): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(80): warning C4715: 'Window::Initialise': not all control paths return a value

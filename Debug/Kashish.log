@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLCourseApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Window.cpp
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(132): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(136): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(137): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(139): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(140): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ashyo98\documents\visual studio 2017\projects\kashish\window.cpp(81): warning C4715: 'Window::Initialise': not all control paths return a value
+  Kashish.vcxproj -> C:\Users\ashyo98\Documents\Visual Studio 2017\Projects\Kashish\Debug\Kashish.exe
